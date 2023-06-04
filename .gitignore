@@ -1,0 +1,4 @@
+*.pyc
+*.interp
+*.tokens
+grammer/*.py
